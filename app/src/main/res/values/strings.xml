@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Focus Plan Builder</string>
+
+    <string name="screen_title">Focus Plan Builder</string>
+    <string name="screen_instructions">Enter what you want to study and how many minutes you have (10 to 180). Tap Create plan to get a session category and a recommended break.</string>
+
+    <string name="subject_label">Study subject</string>
+    <string name="subject_supporting">For example: Kotlin, Databases, or Compose state</string>
+    <string name="subject_error">Subject cannot be only spaces</string>
+
+    <string name="minutes_label">Available minutes</string>
+    <string name="minutes_supporting">Whole number from 10 to 180</string>
+    <string name="minutes_error">Enter a whole number from 10 to 180</string>
+
+    <string name="create_plan">Create plan</string>
+
+    <string name="plan_duration_label">Duration:</string>
+    <string name="plan_category_label">Category:</string>
+    <string name="plan_break_label">Recommended break:</string>
+    <string name="plan_minutes_value" tools:ignore="PluralsCandidate">%1$d minutes</string>
+    <string name="plan_summary" tools:ignore="PluralsCandidate">Study %1$s for %2$d minutes, and then take a %3$d-minute break.</string>
+</resources>
