@@ -161,3 +161,5 @@ I did not collaborate with any classmates on this assignment.
 **Relevant suggestions it produced:** It helped with the errors in the syntax i got while writing the Reset Behaviour. It also corrected the grammar and spacing in the README.
 
 **What I accepted, changed, or rejected:** I accepted the changes it made to remove the warnings of unused packaged. I accepted the README changes and formatting myself.
+
+**How I confirmed my understanding:** I reviewed the submitted code line by line, ran the application on the emulator, tested the required input cases, and verified the state-hoisting, validation, rememberSaveable, and recomposition behavior. I can explain how each composable, callback, calculation function, and state variable works.
